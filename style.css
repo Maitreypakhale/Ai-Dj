@@ -1,0 +1,37 @@
+.speed
+{
+    float: left;
+}
+
+.vol
+{
+    float: right;
+}
+
+#disk
+{
+    width: 200px;
+    height: 200px;
+}
+
+.note
+{
+    font-size: 18px;
+}
+
+.heading
+{
+    font-size: 20px;;
+    width: 100%;
+    margin: 0px;
+}
+
+#Vol, #Speed
+{
+    font-size: 15px;
+}
+
+.start
+{
+    font-size: 15px;
+}
